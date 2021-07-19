@@ -1,27 +1,27 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GC5WVCCUUET2CL2I6XU75TDJ35ZOHI3M4ROIUUZZL37EQ7IHBFZK64V5"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
+ORG_NAME="EnergyWebx"
 ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_DESCRIPTION="We're a global nonprofit accelerating the low-carbon, customer-centric #energytransition by unleashing the potential of #opensource digital tech."
+ORG_TWITTER="@energywebx"
+ORG_LOGO="https://i.ibb.co/tsPnS70/ewt.png"
+ORG_OFFICIAL_EMAIL="energywebsupport@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="EWT"
+issuer="GC5WVCCUUET2CL2I6XU75TDJ35ZOHI3M4ROIUUZZL37EQ7IHBFZK64V5"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
+name="Energy Web Token"
+desc="Energy Web Token (EWT) is the native token of the Energy Web Chain, a public, Proof-of-Authority Ethereum Virtual Machine blockchain specifically designed to support enterprise-grade applications in the energy sector. The Energy Web Chain is operated and governed by over 25 Validator nodes from 15 countries, including utilities, grid operators, and startups. In addition to its native token, the EW Chain supports all ERC standards. The Energy Web Chain was launched in June 2019 by Energy Web Foundation - a global nonprofit unleashing blockchain's potential in the energy sector - and its global consortium of Members that includes upstream energy companies, utilities, grid operators, software developers, and technology vendors"
+conditions=""
+image="https://i.ibb.co/tsPnS70/ewt.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
